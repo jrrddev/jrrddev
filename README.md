@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a Grade 12 TVL-ICT student from Iloilo, Philippines, on the path to taking **BS Computer Science (BSCS)**.  <br>💻 I love building tech projects, learning programming, and exploring how things work behind the screen.  <br>🚴‍♂️ Outside of code, I'm also into cycling, gaming, and leveling up my skills one ride at a time.<br>- 🧠 Future BSCS student focused on software development & problem-solving<br>- 💡 Currently learning Web Dev (HTML, CSS, JS) and exploring Python<br>- 🔧 I use VS Code, GitHub, Sublime, and SPCK Editor on mobile<br>- 🎯 Goal: Become a smart, reliable, and creative CS professional<br>
+I'm a Grade 12 TVL-ICT student from Iloilo, Philippines, on track to pursue **BS Computer Science**.  <br>I love building things with code, understanding how tech works, and constantly learning new tools.<br><br>When I’m not coding, you’ll find me cycling around the city, gaming, or leveling up my skills in life and tech.<br><br>- 🧠 Passionate about software development and creative problem-solving  <br>- 🌐 Learning web development (HTML, CSS, JavaScript) and exploring Python  <br>- 🛠️ Tools I use: VS Code, GitHub, Sublime Text, SPCK Editor (Android)  <br>- 🎯 My goal: To become a smart, dependable, and future-ready CS professional  
 
 
 ## 🌐 Socials:
