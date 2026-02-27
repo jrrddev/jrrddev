@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Jared, a Grade 12 TVL-ICT student from Iloilo, Philippines, on track to pursue **BS Information Technology**.  <br>I love building things with code, understanding how tech works, and constantly learning new things.<br><br>When I’m not coding, you’ll find me cycling around the city, gaming, or leveling up my skills in life and tech.<br><br>- 🧠 Passionate about software development and creative problem-solving  <br>- 🌐 Learning web development (HTML, CSS, JavaScript) and exploring Python  <br>- 🛠️ Tools I use: VS Code and GitHub  <br>- 🎯 My goal: To become a smart, dependable, and future-ready IT professional  
+I'm Jared, a Grade 12 TVL-ICT student from Iloilo, Philippines, on track to pursue **BS Information Technology**.  <br>I love building things with code, understanding how tech works, and constantly learning new things.<br><br>When I’m not coding, you’ll find me cycling around the city, gaming, or leveling up my skills in life and tech.<br><br>- 🧠 Passionate about software development and creative problem-solving  <br>- 🌐 Learning web development (HTML, CSS, JavaScript) and exploring PHP and Networking  <br>- 🛠️ Tools I use: VS Code and GitHub  <br>- 🎯 My goal: To become a smart, dependable, and future-ready IT professional  
 
 ---
 
