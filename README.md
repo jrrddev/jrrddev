@@ -3,7 +3,7 @@ I'm Jared, a Grade 12 TVL-ICT student from Iloilo, Philippines, on track to purs
 
 ---
 
-[My Portfolio👋🏼](http://jrrddev.github.io/jrrd-portfolio/)
+[My Portfolio👋🏼](https://jrrd.dev)
 
 ---
 
