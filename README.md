@@ -16,7 +16,7 @@ Feel free to reach out if you'd like to collaborate, talk tech, or discuss anyth
 
 ---
 
-Contact me through my
+Contact me through my<br>
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jrrd.dev)
 
 ---
