@@ -1,9 +1,9 @@
 # Hey I,m Jared:
-Currently pursuing my bachelors in Information Technology<br>
-Interested in creating useful projects, software engineering, and AI engineering.<br>
-Working with JavaScript, PHP, MERN Stack and currently learning forward.<br>
-Building a solid foundation in programming concepts and problem-solving.<br>
-Feel free to contact me regarding anything.
+- Currently pursuing my bachelors in Information Technology<br>
+- Interested in creating useful projects, software engineering, and AI engineering.<br>
+- Working with JavaScript, PHP, MERN Stack and currently learning forward.<br>
+- Building a solid foundation in programming concepts and problem-solving.<br>
+- Feel free to contact me regarding anything.
 
 ---
 
