@@ -46,4 +46,13 @@ Contact me through my<br>
 
 ---
 
+## 🎯 Goals
+
+*   Advance into a Software Developer, AI Engineer, or Cloud Engineer role
+*   Focus on creating and launching useful and practical projects
+*   Deepen technical knowledge in backend architecture and system design
+*   Progress toward AI Engineering by exploring neural models and intelligent automation
+  
+---
+
 ![snake gif](https://github.com/jrrddev/jrrddev/blob/output/github-snake-dark.svg)
