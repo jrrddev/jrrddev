@@ -1,19 +1,40 @@
-# 💫 About Me:
-I'm Jared, a Grade 12 TVL-ICT student from Iloilo, Philippines, on track to pursue **BS Information Technology**.  <br>I love building things with code, understanding how tech works, and constantly learning new things.<br><br>When I’m not coding, you’ll find me cycling around the city, gaming, or leveling up my skills in life and tech.<br><br>- 🧠 Passionate about software development and creative problem-solving  <br>- 🌐 Learning web development (HTML, CSS, JavaScript) and exploring PHP and Networking  <br>- 🛠️ Tools I use: VS Code and GitHub  <br>- 🎯 My goal: To become a smart, dependable, and future-ready IT professional  
+# Hey I,m Jared:
+Currently pursuing my bachelors in Information Technology
+Interested in creating useful projects, software engineering, and AI engineering.
+Working with JavaScript, PHP, MERN Stack and currently learning forward.
+Building a solid foundation in programming concepts and problem-solving.
+Feel free to contact me regarding anything.
 
 ---
 
-[My Portfolio👋🏼](https://jrrd.dev)
+[Visit Me👋🏼](https://jrrd.dev)
 
 ---
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/858602228784431104) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/16x5teNANk/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jrrd_nyts) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/d-raizel-030bb2375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:steroid.be.like@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jrrd.dev)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steroid.be.like@gmail.com)
+[![Discord](https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/858602228784431104) 
+[![Facebook](https://img.shields.io/badge/FACEBOOK-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/16x5teNANk/) 
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jrrd_nyts) 
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-raizel-030bb2375)
 
 ---
 
-# 💻 Technologies I've Worked With:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+#### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+#### 🚀 Backend
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🛠️ Developer Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual__Studio__Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-Python__XKCD-ff69b4?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
