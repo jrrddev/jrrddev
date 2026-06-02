@@ -1,4 +1,4 @@
-# Hey I,m Jared:
+# Hi, I,m Jared👋 
 - Currently pursuing my bachelors in Information Technology<br>
 - Interested in creating useful projects, software engineering, and AI engineering.<br>
 - Working with JavaScript, PHP, MERN Stack and currently learning forward.<br>
