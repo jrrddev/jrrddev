@@ -45,7 +45,7 @@ Visit or Contact me through my<br>
 ####  Developer Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-%231E7EBF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
