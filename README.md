@@ -4,6 +4,10 @@
 
 ##  About Me
 
+<sub>Fun Facts</sub>
+* Currently pursuing a bachelor's degree in Information Technology.
+* As of now, I'm strengthening my fundamentals in the JavaScript stack and building projects integrated with AI.
+  
 I am currently pursuing my bachelor's degree in Information Technology, focusing on building solid fundamentals in programming logic, software structures, and hands on problem solving.
 
 Driven by a passion for creating impactful tools, I actively develop front end and full stack web applications ranging from personal portfolios and school systems to custom client solutions while continuously expanding my expertise across HTML, CSS, JavaScript, PHP, React, and Next.js.
