@@ -2,7 +2,7 @@
 
 <p align="center">Aspiring Software Engineer • BSIT Student • AI Tech Enthusiast</p>
 
-<h1>About Me</h1>
+# About Me
 
 <sub>Fun Facts</sub>
 * Currently pursuing a bachelor's degree in Information Technology.
@@ -12,11 +12,10 @@ Hi! I am Jared, a web developer who loves creating impactful tools and solving c
 I’m currently focused on strengthening my JavaScript fundamentals and experimenting with AI integration, while preparing for a long-term career in software engineering, networking, or cybersecurity.
 
 
-<h2>Visit or Contact me</h2>
 If you'd like to discuss work opportunities or collaborations, you can reach me at:
-✉️: jrrd.dev.projects@gmail.com
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jrrd.dev)
+📩 : [jrrd.dev.projects@gmail.com](mailto:jrrd.dev.projects@gmail.com)
 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jrrd.dev)
 ---
 ##  Socials:
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steroid.be.like@gmail.com)
