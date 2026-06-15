@@ -20,14 +20,14 @@ If you'd like to discuss work opportunities or collaborations, you can reach me 
 ## Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nodejs,php,mysql" />
   </a>
 </p>
 
 ## Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,notion,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,notion,figma,cloudflare,discord,vercel" />
   </a>
 </p>
 
