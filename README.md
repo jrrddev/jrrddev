@@ -2,7 +2,7 @@
 
 <p align="center">Aspiring Software Engineer • BSIT Student • AI Tech Enthusiast</p>
 
-##  About Me
+<h1>About Me</h1>
 
 <sub>Fun Facts</sub>
 * Currently pursuing a bachelor's degree in Information Technology.
