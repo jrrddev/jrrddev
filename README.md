@@ -1,7 +1,7 @@
 <h1 align="center">jrrd.dev</h1>
 
 <p align="center">BSIT Student | Web Developer | Future Software Engineer</p>
-
+<sub>Writing code that works... eventually.</sub>
 # About Me
 
 <sub>Fun Facts</sub>
@@ -45,7 +45,5 @@ If you'd like to discuss work opportunities or collaborations, you can reach me 
 *   Focus on creating and launching useful and practical projects
 *   Deepen technical knowledge in backend architecture and system design
 *   Progress toward AI Engineering by exploring neural models and intelligent automation
-
-If it works, don’t touch it.
   
 ![snake gif](https://github.com/jrrddev/jrrddev/blob/output/github-snake-dark.svg)
