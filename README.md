@@ -8,11 +8,7 @@
 * Currently pursuing a bachelor's degree in Information Technology.
 * As of now, I'm strengthening my fundamentals in the JavaScript stack and building projects integrated with AI.
   
-I am currently pursuing my bachelor's degree in Information Technology, focusing on building solid fundamentals in programming logic, software structures, and hands on problem solving.
-
-Driven by a passion for creating impactful tools, I actively develop front end and full stack web applications ranging from personal portfolios and school systems to custom client solutions while continuously expanding my expertise across HTML, CSS, JavaScript, PHP, React, and Next.js.
-
-My long term vision centers on diving deeper into software engineering, exploring computer networking, or branching into cybersecurity, while actively experimenting with AI integration to build intelligent, modern applications.
+Hi! I am Jared, a web developer who loves creating impactful tools and solving complex problems. From personal portfolios to practical, client tailored applications, I use my core stack—HTML, CSS, JavaScript, PHP, React, and Next.js—to bring functional digital solutions to life. I’m currently focused on strengthening my JavaScript fundamentals and experimenting with AI integration, while preparing for a long-term career in software engineering, networking, or cybersecurity.
 
 ---
 
