@@ -2,8 +2,6 @@
 
 <p align="center">Aspiring Software Engineer • BSIT Student • AI Tech Enthusiast</p>
 
----
-
 ##  About Me
 
 I am currently pursuing my bachelor's degree in Information Technology, focusing on building solid fundamentals in programming logic, software structures, and hands-on problem-solving. 
