@@ -1,6 +1,6 @@
 <h1 align="center">jrrd.dev</h1>
 
-<p align="center">Aspiring Software Engineer • BSIT Student • AI Tech Enthusiast</p>
+<p align="center">BSIT Student | Web Developer | Future Software Engineer</p>
 
 # About Me
 
