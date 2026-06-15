@@ -12,7 +12,8 @@ Hi! I am Jared, a web developer who loves creating impactful tools and solving c
 I’m currently focused on strengthening my JavaScript fundamentals and experimenting with AI integration, while preparing for a long-term career in software engineering, networking, or cybersecurity.
 
 
-<h2>Visit or Contact me through my</h2><br>
+<h2>Visit or Contact me</h2>
+If you'd like to discuss work opportunities or collaborations, you can reach me at:
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jrrd.dev)
 
 ---
