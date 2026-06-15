@@ -1,16 +1,14 @@
-<h1 align="center">Hi, I'm Jared 👋</h1>
+<h1 align="center">jrrd.dev</h1>
 
 <p align="center">Aspiring Software Engineer • BSIT Student • AI Tech Enthusiast</p>
 
 ##  About Me
 
-I am currently pursuing my bachelor's degree in Information Technology, focusing on building solid fundamentals in programming logic, software structures, and hands-on problem-solving. 
+I am currently pursuing my bachelor's degree in Information Technology, focusing on building solid fundamentals in programming logic, software structures, and hands on problem solving.
 
-Driven by a passion for creating impactful tools, I actively develop useful applications while advancing my expertise across JavaScript, PHP, and the MERN stack to continuous layout growth.
+Driven by a passion for creating impactful tools, I actively develop front end and full stack web applications ranging from personal portfolios and school systems to custom client solutions while continuously expanding my expertise across HTML, CSS, JavaScript, PHP, React, and Next.js.
 
-My long-term vision centers on diving deeper into software engineering and ultimately specializing in AI engineering to develop next-generation intelligent systems. 
-
-Feel free to reach out if you'd like to collaborate, talk tech, or discuss anything!
+My long term vision centers on diving deeper into software engineering, exploring computer networking, or branching into cybersecurity, while actively experimenting with AI integration to build intelligent, modern applications.
 
 ---
 
