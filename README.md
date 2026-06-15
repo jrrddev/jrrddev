@@ -11,8 +11,8 @@
 Hi! I am Jared, a web developer who loves creating impactful tools and solving complex problems. From personal portfolios to practical, client tailored applications, I use my core stack HTML, CSS, JavaScript, PHP, React, and Next.js to bring functional digital solutions to life. <br><br>
 I’m currently focused on strengthening my JavaScript fundamentals and experimenting with AI integration, while preparing for a long-term career in software engineering, networking, or cybersecurity.
 
-
-If you'd like to discuss work opportunities or collaborations, you can reach me at:
+## Contact
+If you'd like to discuss work opportunities or collaborations, you can reach me at:<br>
 📩 : [jrrd.dev.projects@gmail.com](mailto:jrrd.dev.projects@gmail.com)
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jrrd.dev)
