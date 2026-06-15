@@ -11,8 +11,6 @@
 Hi! I am Jared, a web developer who loves creating impactful tools and solving complex problems. From personal portfolios to practical, client tailored applications, I use my core stack HTML, CSS, JavaScript, PHP, React, and Next.js to bring functional digital solutions to life. <br><br>
 I’m currently focused on strengthening my JavaScript fundamentals and experimenting with AI integration, while preparing for a long-term career in software engineering, networking, or cybersecurity.
 
-<sub>Writing code that works... eventually.</sub>
-
 ## Contact
 
 If you'd like to discuss work opportunities or collaborations, you can reach me at:<br>
@@ -47,5 +45,7 @@ If you'd like to discuss work opportunities or collaborations, you can reach me 
 *   Focus on creating and launching useful and practical projects
 *   Deepen technical knowledge in backend architecture and system design
 *   Progress toward AI Engineering by exploring neural models and intelligent automation
+
+  <sub>"In jrrddev we trust"</sub>
   
 ![snake gif](https://github.com/jrrddev/jrrddev/blob/output/github-snake-dark.svg)
