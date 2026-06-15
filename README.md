@@ -17,7 +17,6 @@ If you'd like to discuss work opportunities or collaborations, you can reach me 
 📩 : [jrrd.dev.projects@gmail.com](mailto:jrrd.dev.projects@gmail.com)<br>
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jrrd.dev)
 
----
 ## Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
@@ -35,11 +34,10 @@ If you'd like to discuss work opportunities or collaborations, you can reach me 
 ## Operating System
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,fedora,kali" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali" />
   </a>
 </p>
 
----
 
 ## 🎯 Goals
 
