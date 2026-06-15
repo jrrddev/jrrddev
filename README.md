@@ -14,7 +14,7 @@ I’m currently focused on strengthening my JavaScript fundamentals and experime
 ## Contact
 
 If you'd like to discuss work opportunities or collaborations, you can reach me at:<br>
-📩 : [jrrd.dev.projects@gmail.com](mailto:jrrd.dev.projects@gmail.com)
+📩 : [jrrd.dev.projects@gmail.com](mailto:jrrd.dev.projects@gmail.com)<br>
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jrrd.dev)
 
 ---
