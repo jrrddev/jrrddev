@@ -20,7 +20,7 @@ If you'd like to discuss work opportunities or collaborations, you can reach me 
 ## Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nodejs,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,nodejs,php,mysql,postgres" />
   </a>
 </p>
 
