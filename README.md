@@ -1,7 +1,7 @@
 <h1 align="center">jrrd.dev</h1>
 
 <p align="center">BSIT Student | Web Developer | Tesda NCII CSS Certified</p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=jrrddev)
 # About Me
 
 <sub>Fun Facts</sub>
