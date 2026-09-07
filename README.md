@@ -1,6 +1,6 @@
 <h1 align="center">jrrd.dev</h1>
 
-<p align="center">BSIT Student | Web Developer | Tesda NCII CSS Certified</p>
+<p align="center">BSIT Student | Full-Stack Developer | Tesda NCII CSS Certified</p>
 
 # About Me
 
