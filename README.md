@@ -5,7 +5,7 @@
 # About Me
 
 <sub>Fun Facts</sub>
-* Currently pursuing a bachelor's degree in Information Technology.
+* Currently pursuing a bachelor's degree in Information Technology at Iloilo Science and Technology University.
 * As of now, I'm strengthening my fundamentals in the JavaScript stack and building projects integrated with AI.
   
 Hi! I am Jared, a web developer who loves creating impactful tools and solving complex problems. From personal portfolios to practical, client tailored applications, I use my core stack HTML, CSS, JavaScript, PHP, React, and Next.js to bring functional digital solutions to life. <br><br>
